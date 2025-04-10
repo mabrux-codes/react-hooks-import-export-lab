@@ -1,3 +1,4 @@
+// components/NavBar.js
 import React from "react";
 
 function NavBar() {
@@ -7,3 +8,5 @@ function NavBar() {
     </nav>
   );
 }
+
+export default NavBar;

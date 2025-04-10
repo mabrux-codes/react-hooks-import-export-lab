@@ -1,4 +1,7 @@
+// components/About.js
 import React from "react";
+
+const image = "https://i.imgur.com/mV8PQxj.gif"; // Use a hosted image instead
 
 function About() {
   return (
@@ -9,3 +12,5 @@ function About() {
     </div>
   );
 }
+
+export default About;
